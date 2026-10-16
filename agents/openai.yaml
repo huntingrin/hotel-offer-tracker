@@ -1,0 +1,4 @@
+interface:
+  display_name: "酒店优惠动态核验"
+  short_description: "每次读取最新酒店活动，核对预订期限与使用条件，追踪仍可用项目"
+  default_prompt: "使用 $hotel-offer-tracker 更新酒店优惠消息，查找仍可预订或购买的项目，区分已核验和待确认结果。"

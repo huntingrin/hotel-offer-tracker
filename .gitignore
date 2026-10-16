@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+酒店优惠研究/
+酒店优惠追踪/
+追踪记录/
+state/
+cookies*.json
+*apikey*

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "timezone": "Asia/Shanghai",
+  "roots": [
+    {"id": "xiaocaiji-main", "kind": "document", "url": "https://docs.qq.com/sheet/DS0lISERJdVd2Tmlo?tab=misg4z", "purpose": "每次重新枚举酒店相关工作表及最新公告"},
+    {"id": "xiaocaiji-lottery", "kind": "document", "url": "https://docs.qq.com/form/page/DS2NpeGhraGlaSmxx", "purpose": "读取当前长期抽奖规则，不提交"}
+  ],
+  "discovery_hints": ["红包", "闪促", "订房", "房券", "返现", "更新", "年度", "季度"],
+  "historical_tabs": {"uk3tzc": "红包", "435d6a": "万豪闪促", "cmgtdj": "最低价日期属性", "kd6mv0": "希尔顿闪促", "x2c5w4": "历史好价"},
+  "historical_tabs_are_current_evidence": false
+}
